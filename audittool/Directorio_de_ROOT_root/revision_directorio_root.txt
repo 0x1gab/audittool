@@ -1,0 +1,1 @@
+El directorio /root/, del usuario root existe
